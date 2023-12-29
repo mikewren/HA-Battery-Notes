@@ -87,11 +87,6 @@
         },
         {
             "manufacturer": "CentraLite",
-            "model": "3210-L",
-            "battery_type": "CR2"
-        },
-        {
-            "manufacturer": "CentraLite",
             "model": "3320-L",
             "battery_type": "CR2"
         },
